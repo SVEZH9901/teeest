@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("H444llo world!");
+        Andriyan Andri = new Andriyan();
+        Andri.babki = 200000;
+        Andri.PriehalOlhovski();
     }
 }
