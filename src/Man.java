@@ -1,4 +1,4 @@
-public class Andriyan {
+public class Man {
     int heigh;
     int weight;
     int age;
